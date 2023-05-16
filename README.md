@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Motivation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository is for learning to use a library [reactflow](https://github.com/wbkd/react-flow).
 
 ## Available Scripts
 
